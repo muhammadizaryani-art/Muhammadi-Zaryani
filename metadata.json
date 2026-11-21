@@ -1,0 +1,8 @@
+{
+  "name": "MA Digital Store Management System",
+  "description": "Professional multi-purpose shop management system featuring A4 Invoice Generator, Customer/Product databases, Sales Dashboard, and Domicile Entry & Applicant Profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
